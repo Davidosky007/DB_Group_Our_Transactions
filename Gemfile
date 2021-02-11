@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'faker'
 gem 'hirb'
 gem 'rest-client'
+gem 'rubocop', '~>0.81.0'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

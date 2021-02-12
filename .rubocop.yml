@@ -24,11 +24,7 @@ Metrics/AbcSize:
 Metrics/ClassLength:
   Max: 150
 Metrics/BlockLength:
-  # ExcludedMethods: ['describe']
-  Exclude:
-    - 'Rakefile'
-    - '**/*.rake'
-    - 'test/**/*.rb'
+  ExcludedMethods: ['describe' 'context']
   Max: 30
 
 Style/Documentation:

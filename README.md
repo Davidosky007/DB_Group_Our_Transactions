@@ -79,7 +79,7 @@ To clone the repo:
 
 ## Live Link and Github repo
 - [Heroku LIVE Link](https://group-trans.herokuapp.com/)
-- [Github Repository](https://github.com/NewIncome/MV_Group-Our-Transactions)
+- [Github Repository](https://github.com/Davidosky007/DB_Group_Our_Transactions)
 
 ## Authors and acknowledgment
 - [General requirements](https://www.notion.so/Group-our-transactions-ccea2b6642664540a70de9f30bdff4ce) by [Microverse](https://www.microverse.org/).

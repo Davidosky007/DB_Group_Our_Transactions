@@ -10,10 +10,6 @@ RSpec.feature 'UserFeatures', type: :feature do
       visit signup_path
       expect(page).to have_content 'SIGNUP'
     end
-    it 'show a home page' do
-      visit root_path
-      expect(page).to have_css('h1', text: 'Group Our Transactions')
-    end
     it 'can create a new user' do
       visit signup_path
       fill_in 'Name', with: 'User'

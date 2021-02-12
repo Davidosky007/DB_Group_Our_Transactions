@@ -78,7 +78,7 @@ To clone the repo:
 - [Faker](https://github.com/faker-ruby/faker)
 
 ## Live Link and Github repo
-- [Heroku LIVE Link](https://group-trans.herokuapp.com/)
+- [Heroku LIVE Link](https://our-group-transactions.herokuapp.com/)
 - [Github Repository](https://github.com/Davidosky007/DB_Group_Our_Transactions)
 
 ## Authors and acknowledgment

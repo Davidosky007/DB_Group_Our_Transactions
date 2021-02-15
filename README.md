@@ -71,6 +71,12 @@ To clone the repo:
   ```
   User: David  //or by signing up
   ```
+
+  ### Run tests
+
+```
+  rpsec --format documentation
+```
 ## Built With
 - Ruby
 - Ruby on Rails

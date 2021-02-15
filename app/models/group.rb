@@ -4,4 +4,7 @@ class Group < ApplicationRecord
 
   has_many :transactions
   belongs_to :user
+
+  scope :in_u_g, -> { includes(:user, :group) }
+  scope :dsc, -> { order('created_at DESC') }
 end
